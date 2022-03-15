@@ -1,3 +1,3 @@
 # digit-recognizer
-kaggle competiton
+kaggle competiton,
 Light up star if it helps you
